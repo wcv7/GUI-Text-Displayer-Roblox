@@ -1,1 +1,1 @@
-# GUI-Text-Displayer-Roblox
+ This Is A Very Simple Example Of How You Can Display Leaderstats That Need To Be Updated To A GUI In Roblox. This Links To Another Repository <a href="https://github.com/wcv7/Roblox-Beginner-PlayerStats">Beginner PlayerStats</a>, So If You Dont Know How To Make Leaderstats I Recommend You Have A Look At That So You Understant What Is Going On. You Can Build The GUI Off Of The Code, Each Variable Links To A Part Of The GUI, I Will Be Making More Advanced Roblox Scripts.
